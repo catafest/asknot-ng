@@ -21,137 +21,137 @@ msgstr ""
 #. title
 #. description
 #: questions/coala.yml:1
-msgid "What can I do for coala?"
+msgid "Ce pot face eu pentru coala?"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "No"
+msgid "Nu"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Nope, nope, nope"
+msgid "Nu, nu, nu"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Nope"
+msgid "Nu"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "No, thanks"
+msgid "Nu, mulțumiri"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Not on your life"
+msgid "Nu în viața ta"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Doesn't sound like me"
+msgid "Nu pare că aș fi eu"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Absolutely not"
+msgid "Sigur nu"
 msgstr ""
 
 #. negative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Next, please"
+msgid "Următorul, te rog"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Yes"
+msgid "Da"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Sounds awesome"
+msgid "Sună promițator"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Tell me more"
+msgid "Spune-mi mai multe"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "That's me!"
+msgid "Eu sunt!"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Totally"
+msgid "Definitiv"
 msgstr ""
 
 #. affirmative
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Sure"
+msgid "Sigur"
 msgstr ""
 
 #. backlink
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "I was wrong, take me back"
+msgid "Am greșit, du-mă înapoi"
 msgstr ""
 
 #. backlink
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "I think I made a mistake"
+msgid "Cred ca am făcut o greșeală"
 msgstr ""
 
 #. backlink
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Get me outta here!"
+msgid "Scoate-mă de aici!"
 msgstr ""
 
 #. navlink
 #: questions/coala.yml:1 questions/fedora.yml:1 questions/gnome.yml:1
-msgid "Join"
-msgstr ""
-
-#. navlink
-#: questions/coala.yml:1
-msgid "coala documentation"
+msgid "Începe"
 msgstr ""
 
 #. navlink
 #: questions/coala.yml:1
-msgid "Get Live Help!"
+msgid "coala documentație"
+msgstr ""
+
+#. navlink
+#: questions/coala.yml:1
+msgid "Ajutor în direct!"
 msgstr ""
 
 #. segue1
 #: questions/coala.yml:33
-msgid "Want to help coala?"
+msgid "Vreau să ajut coala?"
 msgstr ""
 
 #. segue2
 #: questions/coala.yml:33
-msgid "What do you care about?"
+msgid "Ce îți pasă?"
 msgstr ""
 
 #. title
 #: questions/coala.yml:37
-msgid "Visuals!"
+msgid "Vizualizări!"
 msgstr ""
 
 #. subtitle
 #: questions/coala.yml:37
-msgid "The coala artwork team is just for you!"
+msgid "Echipa coala artwork este pentru tine!"
 msgstr ""
 
 #. title
 #: questions/coala.yml:40
-msgid "Good, Generic Code"
+msgid "Bine, Generic Code"
 msgstr ""
 
 #. subtitle
 #: questions/coala.yml:40
-msgid "Help us improving code quality in the world! Join the core developers."
+msgid "Ajutați-ne să îmbunătățirea calității codului din lume! Alăturați-vă dezvoltatorii de bază."
 msgstr ""
 
 #. title
